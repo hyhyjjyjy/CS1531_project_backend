@@ -1,0 +1,50 @@
+DORITO Meeting Minutes:
+Date: 15/03
+Attendees: Josh, Bunny, Jordan, Dean
+Absent: Eric
+
+Not too much to go through in this meeting. Assigning everyone new functions as well as updated versions of previous functions.
+Eric:
+    clear/v1
+    notifications/get/v1
+    admin/userpermission/change/v1
+    admin/user/remove/v1
+    channel/details/v2
+    channel/invite/v2
+    
+Josh:
+    search/v2
+    channel/leave/v1
+    channel/removeowner/v1
+    channel/addowner/v1
+    channel/join/v2
+    channel/messages/v2
+    
+Jordan:
+    users/all/v1
+    user/profile/sethandle/v1
+    user/profile/setemail/v2
+    user/profile/setname/v2
+    user/profile/v2
+    auth/logout/v1
+    auth/register/v2
+    auth/login/v2
+    
+Bunny:
+    dm/messages/v1
+    dm/leave/v1
+    dm/invite/v1
+    dm/remove/v1
+    dm/create/v1
+    dm/list/v1
+    dm/details/v1
+    
+Dean:
+    message/senddm/v1
+    message/share/v1
+    message/remove/v1
+    message/edit/v2
+    message/send/v2
+    channels/create/v2
+    channels/listall/v2
+    channels/list/v2

@@ -1,0 +1,12 @@
+Attendees:
+- Bunny Dong (Scribe)
+- Eric Zheng
+- Jordan Milch
+- Joshua Hatton
+- Dean Zworestine
+
+- Refine the the variable name and the data type in our database
+- Check the data persistence and make sure we are using json file to store the data 
+- Help with each other debugging the fuction tests
+- Exchange ideas over the difference and similarity between channel messages and direct messages
+- Merge auth functons into the master with pipline passed

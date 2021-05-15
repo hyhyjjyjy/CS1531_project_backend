@@ -1,0 +1,23 @@
+Date: 2021 Mar.4
+
+Agenda: 
+        debug and fix all the errors appearing when we are merging.
+        make all the tests run successfully.
+        have a view on everyone's code to check if there is a problem or anything missed.
+        make the data type more consistent.
+
+Attendance:
+Bunny Dong(Scribe)
+Eric Zheng 
+Joshua Hatton
+Jordan Milch
+Zean Zworestine
+
+Things we did:
+    jordan was the main debugger and we help with him fixing all the errors.
+    We went through our code and make the tests look more reasonable and more black-box.
+    We temporarily turned Josh's fixtures into functions to ensure that tests are working as we currently are not too familiar with fixtures
+    and we decided to let joshua turn the fixture back when hs is free on his own time.
+    In our test file we changed the dictionary keys to match the exact output in the spec.
+    We made a decision that we would have another meeting March 5th late night.
+

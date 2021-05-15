@@ -1,0 +1,68 @@
+Agenda:
+Review any pending merge requests
+Create a more general/consistent database dictionary
+Progress check
+
+Attendance:
+Eric Zheng (Scribe)
+Joshua Hatton
+Jordan Milch
+Zean Zworestine
+Bunny Dong
+
+Meeting Minutes:
+- Reverted Bunny's merge request so that we can first decide on a more consistent database dictionary
+- Pushed Jordan's auth_login and auth_register to gitlab - working solutions for auth_login & auth_register
+- Updated data dictionary structure:
+
+data_dic = {
+    'users': [
+        #{
+            #'user_id': ,            # int 
+            #'name_first' : "",        # string 
+            #'name_last' : "",         # string
+            #'email' : "",             # string
+            #'user_handle' : "",       # string
+            #'user_password' : "",     # string
+            #'token' : "",             # string
+            #'permission_id':1/2       # int
+        #},
+    ],
+    'channels': [
+        #{   
+            #'channel_id': "",              # int
+            #'channel_name' : "",           # string
+            #'all_members' : [   {'u_id': 1  ,
+            #                       'name_last':  ,
+            #                       'name_first': ,
+            #                       'email': ,
+            #                       'user_handle': ,
+            #                                    
+            #                    },
+            #                     
+            #                    {'u_id': 2  ,
+            #                       'name_last':  ,
+            #                       'name_first': , 
+            #                       'email': ,
+            #                       'user_handle': ,             
+            #                    },],
+            #'owner_members' : [ {'u_id': 1  ,
+            #                       'name_last':  ,
+            #                       'name_first': ,   
+            #                       'email': ,
+            #                       'user_handle': ,        
+            #                    },
+            #                     
+            #                    {'u_id': 2  ,
+            #                       'name_last':  ,
+            #                       'name_first': ,  
+            #                       'email': ,
+            #                       'user_handle': ,           
+            #                    },]
+            #'is_public' : "",         # bool
+        #},
+    ],
+}
+
+
+

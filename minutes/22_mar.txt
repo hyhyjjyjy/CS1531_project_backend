@@ -1,0 +1,11 @@
+Date: Monday 22nd March 2021
+Attendees: All
+
+Agenda:
+- Fix iteration 1 failing autotests
+- Iteration 2 progress update
+
+Minutes:
+- Investigated autotest results in iter1-results branch; discovered a small problem causing channels_list and channels_listall to fail completely
+- Created new branch called iter1-fix and applied the necessary fix. Will present this in Week 7 project demo
+- Quick progress update on iteration 2. Agreed to all utilise flexi week to its fullest potential and come back next Monday with mostly completed functionality/major progress.

@@ -1,0 +1,22 @@
+Date:  Monday 22nd February 2021
+Attendees: All
+
+Agenda:
+- Check-up to make sure everyone has an understanding of the assignment spec
+- Clarify questions with each other
+- Set up gitlab taskboard
+- Take note of all the tasks needed to be done in Iteration 1
+- Distribute work load 
+- Schedule next meeting
+
+Minutes:
+- Brief overview of entire project
+- Setup gitlab taskboard (open, testing, to-do, doing, closed)
+- Discussed future meeting times
+- Added assumptions.md to root directory
+- Discussed task allocation:
+    - Jordan: auth_login_v1, auth_register_v1
+    - Eric: channel_invite_v1, channel_details_v1
+    - Josh: channel_messages_v1, channel_join_v1
+    - Dean: channels_list_v1, channels_listall_v1
+    - Bunny: channels_create_v1, clear_v1

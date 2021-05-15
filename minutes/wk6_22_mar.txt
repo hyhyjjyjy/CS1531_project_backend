@@ -1,0 +1,13 @@
+Attendees:
+- Eric Zheng (Scribe)
+- Bunny Dong
+- Jordan Milch
+- Joshua Hatton
+- Dean Zworestine
+
+- Using whiteboard to demonstrate data store structure
+- Clarifying a few questions about tokens and session ids
+- Clarified a few questions regarding the functions to do with messages
+- Introduced messages and dms keys in our data store structure
+- Changed clear function so that it completely erases all data - i.e. empty file
+- Reiterate that we need to test for edge cases (such as accessing empty files)
