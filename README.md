@@ -1,4 +1,4 @@
-# COMP1531 Major Project
+# Project
 
  **✨ Teamwork makes the [UNSW] Dream[s] work 🌈**
 
